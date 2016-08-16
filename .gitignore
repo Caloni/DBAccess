@@ -1,0 +1,6 @@
+*.db
+*.vs
+*.user
+Debug
+Release
+*.dat
